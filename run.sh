@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# This script was found at https://bugs.launchpad.net/kicad/+bug/1290022
 #
 # Credits: http://www.freerouting.net/fen/viewtopic.php?f=4&t=255
 # (A message written by forum user "foka" on 2014-03-23)
